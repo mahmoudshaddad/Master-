@@ -1,0 +1,25 @@
+git lfs install
+
+git clone https://huggingface.co/MahmoudShaddad/DIN-Llama-2-7b-chat-finetunewith2epoch
+
+GIT_LFS_SKIP_SMUDGE=1 git clone https://huggingface.co/MahmoudShaddad/DIN-Llama-2-7b-chat-finetunewith2epoch
+
+
+Model 2 
+
+git clone https://huggingface.co/MahmoudShaddad/DIN-Llama-2-7b-chat-finetunewithwithoneepoch
+
+GIT_LFS_SKIP_SMUDGE=1 git clone https://huggingface.co/MahmoudShaddad/DIN-Llama-2-7b-chat-finetunewithwithoneepoch
+
+
+Model 3 
+
+git lfs install
+
+git clone https://huggingface.co/MahmoudShaddad/DIN-Llama-2-7b-chat-finetune
+
+GIT_LFS_SKIP_SMUDGE=1 git clone https://huggingface.co/MahmoudShaddad/DIN-Llama-2-7b-chat-finetune
+
+
+to download the model 
+https://mega.nz/folder/9T1DyAyK#dl9xW1aKAbAaln6TLEb5Mg
