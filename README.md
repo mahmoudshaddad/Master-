@@ -1,4 +1,4 @@
-THE FULLL pROJECT OF FINE TUNING LLAMA2 7B USING QloRA
+a Full Project OF FINE TUNING LLAMA2 7B USING QloRA
 
 the project with part my master thesis in fine tuning LLM for DIN in construction in German 
 
